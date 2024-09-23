@@ -1,4 +1,4 @@
-# ping
+# PING PONG PYJAMA
 
 Ping Pong Pyjama
 
